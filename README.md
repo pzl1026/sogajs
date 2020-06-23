@@ -1,2 +1,2 @@
 # sogajs
-一个关于mvvm框架的解析
+一个关于mvvm框架render的解析
